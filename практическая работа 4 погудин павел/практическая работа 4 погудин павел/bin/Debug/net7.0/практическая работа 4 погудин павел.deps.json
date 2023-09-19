@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "практическая работа 4 погудин павел/1.0.0": {
+        "runtime": {
+          "практическая работа 4 погудин павел.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "практическая работа 4 погудин павел/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
